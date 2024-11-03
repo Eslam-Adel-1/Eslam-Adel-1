@@ -10,6 +10,8 @@
 🌐 Team Ups: Open to collaboration!<br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="25" height="25" align="center" /> Current Quest: Harnessing the power of Next js 
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Yemen.webp" alt="Flag Yemen" width="25" height="25" align="center"/>  Based in Egypt
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" align="center" /> Programming is the art of adding bugs to an empty text file.
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="60" height="60" align="center" /> Tech Stack:
