@@ -37,10 +37,16 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="45" height="45" align="center"/> Projects To take a look at :
 
-1- MediCare :
+# 1- MediCare :
+
+A healthcare application to screen for potential symptoms of serious diseases like heart attack, breast cancer, Parkinson's, and diabetes 
+
 https://github.com/Eslam-Adel-1/MediCare.git
 
-2- Life-Pulse :
+# 2- Life-Pulse :
+
+An application to manage booking and setting appointments between patients and doctors with the ability to pay and book the appointment using stripe
+
 https://github.com/Eslam-Adel-1/life-pulse.git
 
 
