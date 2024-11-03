@@ -5,14 +5,14 @@
 </p>
 <img align="right" src="https://github.com/user-attachments/assets/8118e60a-a4f1-4d0f-b281-3e36f38f750d" width="300" height="300" alt="My-Profile-Pic"/>
 
-📲  A Software Engineer with a passion for web development<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" align="center" />   A Software Engineer with a passion for web development<br>
 <br><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" align="center" />  I'm constantly exploring and diving deeper into the world of <br>creating captivating web applications that solve real world problems .<br><br>
 🌐 Team Ups: Open to collaboration!<br><br>
-📘 Current Quest: Harnessing the power of Next js 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="25" height="25" align="center" /> Current Quest: Harnessing the power of Next js 
 
-😂 Programming is the art of adding bugs to an empty text file.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" align="center" /> Programming is the art of adding bugs to an empty text file.
 
-# 💻 Tech Stack:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="60" height="60" align="center" /> Tech Stack:
 ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/React%20Router-black?style=for-the-badge&logo=reactrouter&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto)
@@ -33,11 +33,13 @@
 
 -------------------------------------------------------
 
-# 🗃 Projects To take a look at :
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="45" height="45" align="center"/> Projects To take a look at :
 
 1- MediCare :
 https://github.com/Eslam-Adel-1/MediCare.git
 
+2- Life-Pulse :
+https://github.com/Eslam-Adel-1/life-pulse.git
 
 
 <br>
