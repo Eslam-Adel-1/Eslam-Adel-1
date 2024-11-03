@@ -38,8 +38,7 @@
 1- MediCare :
 https://github.com/Eslam-Adel-1/MediCare.git
 
-2- Life-Pulse :
-https://github.com/Eslam-Adel-1/life-pulse.git
+
 
 <br>
 
