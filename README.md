@@ -5,7 +5,7 @@
 </p>
 <img align="right" src="https://github.com/user-attachments/assets/8118e60a-a4f1-4d0f-b281-3e36f38f750d" width="300" height="300" alt="My-Profile-Pic"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" align="center" />   A Software Engineer with a passion for web development<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" align="center" />   A Software Engineer with a passion for web development<br>
 <br><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" align="center" />  I'm constantly exploring and diving deeper into the world of <br>creating captivating web applications that solve real world problems .<br><br>
 🌐 Team Ups: Open to collaboration!<br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="25" height="25" align="center" /> Current Quest: Harnessing the power of Next js 
@@ -54,7 +54,7 @@ https://github.com/Eslam-Adel-1/life-pulse.git
 
 -------------------------------------------------------
 
-# <p><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="50" align="center" /> Invoke the contact() function :</p>
+# <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone.webp" alt="Telephone" width="50" height="50" align="center"/> Invoke the contact() function :</p>
 
 
 <img align="center" src="https://github.com/user-attachments/assets/f3209246-e72c-401f-9e24-289fb6560579" alt="MeCoding" width="350" height="370">
