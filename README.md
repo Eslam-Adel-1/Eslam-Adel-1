@@ -41,13 +41,13 @@
 
 A healthcare application to screen for potential symptoms of serious diseases like heart attack, breast cancer, Parkinson's, and diabetes 
 
-https://github.com/Eslam-Adel-1/MediCare.git
+https://github.com/Eslam-Adel-1/MediCare
 
 # 2- Life-Pulse :
 
 An application to manage booking and setting appointments between patients and doctors with the ability to pay and book the appointment using stripe
 
-https://github.com/Eslam-Adel-1/life-pulse.git
+https://github.com/Eslam-Adel-1/life-pulse
 
 
 <br>
@@ -65,7 +65,7 @@ https://github.com/Eslam-Adel-1/life-pulse.git
 [![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ](https://github.com/Eslam-Adel-1)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-adel22/)
-![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](es12forwork@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=readdotcv&logoColor=white&logoSize=amg)](https://drive.google.com/file/d/1xNe-xhF3YxkcwB9PvDe1x-Hfk3la68Jh/view?usp=drive_link)
 [![Static Badge](https://img.shields.io/badge/My%20Portfolio-lightgray?style=for-the-badge&logoColor=white&logoSize=amg)](https://eslam-adel.vercel.app/)
 
