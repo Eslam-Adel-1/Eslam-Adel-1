@@ -66,6 +66,11 @@ https://github.com/Eslam-Adel-1/life-pulse.git
 ](https://github.com/Eslam-Adel-1)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-adel22/)
 ![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=readdotcv&logoColor=white&logoSize=amg)](https://drive.google.com/file/d/1xNe-xhF3YxkcwB9PvDe1x-Hfk3la68Jh/view?usp=drive_link)
+[![Static Badge](https://img.shields.io/badge/My%20Portfolio-lightgray?style=for-the-badge&logoColor=white&logoSize=amg)](https://eslam-adel.vercel.app/)
+
+
+
 
 </p>
 
