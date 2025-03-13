@@ -49,7 +49,7 @@ An application to manage booking and setting appointments between patients and d
 
 https://github.com/Eslam-Adel-1/life-pulse
 
-# 2- Music Website (Spotify Clone) :
+# 3- Music Website (Spotify Clone) :
 
 Spotify Clone is a full-stack music streaming app built with the MERN stack. It features user authentication, profile management, and the ability to play songs or full albums. Socket.io-powered real-time chat allows users to interact while listening. The app delivers a seamless, modern music experience with dynamic UI and smooth playback
 
