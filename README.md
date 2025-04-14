@@ -1,6 +1,6 @@
 ## Hi Fellow Developers   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" align="center" />   I'm Eslam Adel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Engineer;Software+Engineer)](https://github.com/eslam-adel-1/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Engineer;FrontEnd+Developer;React+/+Next js+Developer;Passionate+About+Learning+New+Things)](https://github.com/eslam-adel-1/)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Software+Engineer!;FrontEnd+Developer!;React+/+Next js+Developer; Passionate+About+Learning+New+Things;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
