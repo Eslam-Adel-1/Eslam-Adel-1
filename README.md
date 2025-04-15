@@ -2,10 +2,12 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&pause=1000&color=5CE65C&center=true&vCenter=true&width=600&lines=Software+Engineer;FrontEnd+Developer;React+/+Next+js+Developer;Passionate+About+Learning+New+Things">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&pause=1000&color=5CE65C&center=true&vCenter=true&width=600&lines=Software+Engineer;FrontEnd+Developer;React+/+Next+js+Developer;Passionate+About+Learning+New+Things">
 <!--   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Software+Engineer!;FrontEnd+Developer!;React+/+Next js+Developer; Passionate+About+Learning+New+Things;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> -->
 </p>
+<p align="center">
 <img align="right" src="https://github.com/user-attachments/assets/8118e60a-a4f1-4d0f-b281-3e36f38f750d" width="300" height="300" alt="My-Profile-Pic"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" align="center" />   A Software Engineer with a passion for web development<br>
 <br><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" align="center" />  I'm constantly exploring and diving deeper into the world of <br>creating captivating web applications that solve real world problems .<br><br>
