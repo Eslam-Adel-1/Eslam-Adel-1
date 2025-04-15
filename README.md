@@ -6,7 +6,7 @@
 <!--   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Software+Engineer!;FrontEnd+Developer!;React+/+Next js+Developer; Passionate+About+Learning+New+Things;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> -->
 </p>
 <p align="center">
-<img align="right" src="https://github.com/user-attachments/assets/8118e60a-a4f1-4d0f-b281-3e36f38f750d" width="300" height="300" alt="My-Profile-Pic"/>
+<img  src="https://github.com/user-attachments/assets/8118e60a-a4f1-4d0f-b281-3e36f38f750d" width="300" height="300" alt="My-Profile-Pic"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" align="center" />   A Software Engineer with a passion for web development<br>
